@@ -82,7 +82,7 @@ In order to build CoyIM, you should check out the source code, and run:
 make build
 ```
 
-It might be possible to build CoyIM using `go get` but we currently do not support this method.
+It might be possible to build CoyIM using `go install` but we currently do not support this method.
 
 
 ## Contributing to CoyIM
